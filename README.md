@@ -22,7 +22,7 @@ To install and use this RPC checker, follow these steps:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/rpc_checker.git
+    git clone https://github.com/sqhard08/rpc_checker.git
     ```
 2. **Navigate to the Project Directory**:
     ```sh
